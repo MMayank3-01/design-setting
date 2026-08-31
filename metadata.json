@@ -1,0 +1,6 @@
+{
+  "name": "Designjoy - Design as a Subscription",
+  "description": "The #1 design subscription service for agencies, startups, and entrepreneurs. Unlimited design and revisions for a flat monthly fee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
